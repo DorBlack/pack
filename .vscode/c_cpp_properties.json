@@ -1,0 +1,21 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "../include/**",
+                "D:/anydream2019/anydream/src/cpp/basecore/include/**",
+                "D:/anydream2019/anydream/src/cpp/appcore/include/**"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "compilerPath": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2017\\Enterprise\\VC\\Tools\\MSVC\\14.16.27023\\bin\\Hostx64\\x64\\cl.exe",
+            "cStandard": "c11",
+            "intelliSenseMode": "msvc-x64"
+        }
+    ],
+    "version": 4
+}
