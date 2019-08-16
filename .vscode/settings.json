@@ -1,8 +1,0 @@
-{
-    "files.associations": {
-        "vector": "cpp",
-        "stack": "cpp",
-        "queue": "cpp"
-    },
-    "editor.formatOnSave": true
-}
